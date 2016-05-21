@@ -51,5 +51,4 @@ function printHtml() {
             }
         });
      }
-```java
 
